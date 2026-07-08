@@ -36,10 +36,10 @@ O projeto tem como objetivo demonstrar como criar uma página estática elegante
 ├── index.html
 ├── style.css
 └── assets/
-    ├── image.jpg
-    ├── image (1).jpg
-    ├── image (2).jpg
-    ├── image (3).jpg
+    ├── busan.jpg
+    ├── parque_youngdusan.jpg
+    ├── templo_beomeo-sa.jpg
+    ├── templo_haedong_yonggungsa.jpg
     └── ph_heart-fill.png
 ```
 
