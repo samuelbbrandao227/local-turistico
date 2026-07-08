@@ -1,0 +1,102 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+    padding: 88px 80px 137px 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 28px;
+}
+
+.headline {
+    color: #E1624F;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 16px;
+    color: #333333;
+}
+
+.description {
+    font-style: italic;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.description p {
+    margin-top: 24px;
+}
+
+.divisor {
+    width: 100%;
+    height: 1px;
+    margin: 40px 0 0;
+    background-color: #d9d9d9;
+}
+
+.title-list {
+    margin: 64px 0;
+}
+
+ul, .title-list p, h2 {
+    margin: 0;
+}
+
+.content-card{
+    margin: 20px 0 40px
+}
+
+.title-list .headline {
+    width: 255px;
+    height: 22px; 
+}
+
+.title-list h2 {
+    height: 44px;
+}
+
+h3 {
+    padding: 0 0 0 10px;
+}
+
+.best-for-label {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.card + .card img {
+    margin-top: 8px;
+}
+
+.divisor + p, .divisor + p + footer {
+    text-align: center;
+}
+
+footer {
+    font-family: 'Alice';
+    font-size: 16px;
+}
+
+footer img {
+    width: 14px;
+}
